@@ -2,6 +2,8 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/156d614b78d88ec7bfe9/maintainability)](https://codeclimate.com/github/werneckbh/qr-code/maintainability)
 [![Test Coverage](https://api.codeclimate.com/v1/badges/156d614b78d88ec7bfe9/test_coverage)](https://codeclimate.com/github/werneckbh/qr-code/test_coverage)
 
+# This package has been discontinued by the owner and this is a backup for internal use.
+
 # QR Code Generator for PHP
 
  Based on the popular library [PHP QR Code](http://phpqrcode.sourceforge.net), this package lets you create several different QR Codes.
